@@ -21,7 +21,7 @@ public class Main {
         char charOne = 'A'; char charTwo = 65; //char stores characters as their unicode numbers
         boolean booleanOne = true; //booleans can store two things - true or false
         String stringOne = "Hello, World!"; //strings are used to store multiple words and characters
-        
+
         System.out.println(byteOne);
         System.out.println(shortOne);
         System.out.println(intOne);
