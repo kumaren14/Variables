@@ -33,5 +33,18 @@ public class Main {
         System.out.println(booleanOne);
         System.out.println(stringOne + "\n");
 
+        int z = 'A' + 5;
+        System.out.println(z);
+
+        double w = 'a' + 5;
+        System.out.println(w);
+
+        double u = 'A' * 2.0;
+        System.out.println(u);
+
+        float f = 7.89f;
+
+        System.out.println(3+4+""+5*3);
+
     }
 }
